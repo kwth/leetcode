@@ -5,7 +5,7 @@
  * See the './solutions/two-sum' project for an example
 
 
-* Add your code to your project directory (ex. './solutions/<your-problem>/')
+* Add your code to your project directory (ex. './solutions/\<your-problem>/')
   * Should contain at python file and a notes (notes.md) file tracking your 'attempts' of your problem.
 
 
