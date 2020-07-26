@@ -4,7 +4,7 @@
 
 #### First Attempt
 
-* Git tag: 'wa-01'
+* Git tag: **'wa-01'**
 
 * My first solution was most similar to the _'Approach 1: Brute Force'_ solution on leetcode.
  * Theirs
@@ -21,6 +21,7 @@
         }
 
  * Mine
+
          class Solution:
 
             def factorTarget(self, nums, target):
