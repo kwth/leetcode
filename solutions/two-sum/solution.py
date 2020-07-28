@@ -1,6 +1,8 @@
 class Solution:
 
     def factorTarget(self, nums, target):
+        #target = x1 + x2
+        #x2 = target - x1
         num_val = {}
         for i, num in enumerate(nums):
             num_val[num]=i
